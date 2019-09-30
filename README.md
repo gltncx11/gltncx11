@@ -1,2 +1,2 @@
 # gltncx11
-pratice
+practice
